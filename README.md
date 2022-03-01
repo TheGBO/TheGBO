@@ -1,5 +1,5 @@
 ### TheGBO
-#### Brazilian student
+#### Just a student
 
 - I'm currently studying HTML, CSS, JS, C#, Java, GDScript, SQL(PostgreSQL)
 - I Mostly Like Web Development, but i also like Game Development
